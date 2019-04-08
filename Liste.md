@@ -88,7 +88,6 @@ râteau         | rate taux (avec rate prononcé à la française)
 scorbut        | score but
 sif            | si if
 silicone       | silly conne
-s'enculer      | sank coulé (à prononcer avec un accent)
 timer          | time heure
 topo           | top haut
 trouverai      | true vrai
