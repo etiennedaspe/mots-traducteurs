@@ -1,11 +1,11 @@
 Mot traducteur | Explications
 -------------- | ------------
-aubergine      | auberge inn
 aïeux          | eye yeux
 ajax           | hache axe (à prononcer avec un accent)
 arçon          | are sont
 ardure         | hard dur
 atout          | à to
+aubergine      | auberge inn
 autocar        | auto car
 Bachelot       | batch lot (à prononcer avec un appareil dentaire)
 ballot         | bas low
