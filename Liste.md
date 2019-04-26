@@ -94,7 +94,7 @@ trouverai      | true vrai
 vago           | va go
 verglace       | verre glass
 Vertou         | vers to
-voici          | voit see
+voici          | vois see
 voyou          | vous you (à mal prononcer parce qu'on est pas du coin)
 wookie         | who qui
 Waterloo       | water l'eau
