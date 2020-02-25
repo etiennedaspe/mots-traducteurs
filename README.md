@@ -4,7 +4,7 @@ Ce dépôt a pour objectif de recenser les mots traducteurs.
 
 # Qu'est-ce qu'un mot traducteur ?
 
-Un mot traducteur est un mot qui, quand on les coupe en deux parties, donnent un mot et sa traduction dans une autre langue.
+Un mot traducteur est un mot qui, quand on le coupe en deux parties, donne un mot et sa traduction dans une autre langue.
 
 ## Exemple
 
